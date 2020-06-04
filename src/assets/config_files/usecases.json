@@ -14,7 +14,7 @@
         "contributors": [
           {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
           {"name": "Daria Kokh", "email": "mcmsoft@h-its.org"},
-          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
           {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
         ],
         "external_link": "https://websda.h-its.org"
@@ -31,6 +31,12 @@
         },
         "next": "ta_form",
         "dataprotected": true,
+        "contributors": [
+          {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
+          {"name": "Lukas Adam", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
+          {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
+        ],
         "files": [
           {
             "entryname": "Brownian dynamics simulation - analysis",
@@ -55,6 +61,12 @@
         },
         "next": "ta_form",
         "dataprotected": true,
+        "contributors": [
+          {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
+          {"name": "Lukas Adam", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
+          {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
+        ],	
         "files": [
           {
             "entryname": "Calculate the electrostatic potential of a protein from its atomic structure",
@@ -78,6 +90,12 @@
         },
         "next": "ta_form",
         "dataprotected": true,
+        "contributors": [
+          {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
+          {"name": "Lukas Adam", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
+          {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
+        ],
         "files": [
           {
             "entryname": "Compare the electrostatic potentials surrounding a set of protein isoforms with multipipsa",
@@ -101,6 +119,12 @@
         },
         "next": "ta_form",
         "dataprotected": true,
+        "contributors": [
+          {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
+          {"name": "Lukas Adam", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
+          {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
+        ],
         "files": [
           {
             "entryname": "Compare a region of the electrostatic potentials of a set of protein isoforms.",
@@ -124,6 +148,12 @@
         },
         "next": "ta_form",
         "dataprotected": true,
+        "contributors": [
+          {"name": "Stefan Richter", "email": "mcmsoft@h-its.org"},
+          {"name": "Lukas Adam", "email": "mcmsoft@h-its.org"},
+          {"name": "Rebecca Wade", "email": "mcmsoft@h-its.org"}
+          {"name": "Neil Bruce", "email": "mcmsoft@h-its.org"}
+        ],
         "files": [
           {
             "entryname": "Identify potential protein binding sites of a set of protein isoforms",
